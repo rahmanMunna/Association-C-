@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|c:\\users\\my pc\\source\\repos\\consoleappassociation\\consoleappassociation\\xyzorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|solutionrelative:consoleappassociation\\xyzorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|c:\\users\\my pc\\source\\repos\\consoleappassociation\\consoleappassociation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|solutionrelative:consoleappassociation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\consoleappassociation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|solutionrelative:consoleappassociation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|c:\\users\\my pc\\source\\repos\\consoleappassociation\\consoleappassociation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|solutionrelative:consoleappassociation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\consoleappassociation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09CD4D-F5DD-4FC5-9E77-0ED155A9F722}|ConsoleAppAssociation\\ConsoleAppAssociation.csproj|solutionrelative:consoleappassociation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssociation\\Employee.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Employee.cs",
+              "RelativeToolTip": "ConsoleAppAssociation\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:00:46.676Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XYZOrganization.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\XYZOrganization.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssociation\\XYZOrganization.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\XYZOrganization.cs",
+              "RelativeToolTip": "ConsoleAppAssociation\\XYZOrganization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:22:55.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssociation\\Student.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Student.cs",
+              "RelativeToolTip": "ConsoleAppAssociation\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:15:01.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssociation\\Person.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Person.cs",
+              "RelativeToolTip": "ConsoleAppAssociation\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:55:54.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssociation\\Program.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\ConsoleAppAssociation\\ConsoleAppAssociation\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAssociation\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:53:49.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
